@@ -74,7 +74,7 @@ This assignment focuses on various binary search tree (BST) operations, includin
 
 ## License
 
-This repository is licensed under the [MIT License].
+This repository is licensed under the GNU General Public License v3.0.
 
 ---
 
