@@ -1,4 +1,3 @@
-To create a structured and detailed README file for your repository, I'll suggest the following format based on the assignments you've completed:
 
 ---
 
@@ -77,4 +76,6 @@ This assignment focuses on various binary search tree (BST) operations, includin
 This repository is licensed under the GNU General Public License v3.0.
 
 ---
-
+## Requirements
+C++ 11 or higher
+---
